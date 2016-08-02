@@ -190,6 +190,7 @@
     <orderEntry type="library" name="jquery" level="application" />
     <orderEntry type="library" name="tether" level="application" />
     <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="materialize" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
