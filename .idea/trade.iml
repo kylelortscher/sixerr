@@ -187,6 +187,9 @@
     <orderEntry type="library" scope="PROVIDED" name="web-console (v3.3.1, RVM: ruby-2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.6.4, RVM: ruby-2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.2, RVM: ruby-2.3.0) [gem]" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="tether" level="application" />
+    <orderEntry type="library" name="bootstrap" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
